@@ -36,4 +36,4 @@ node scripts/self-test.mjs
 
 ## 来源与许可证
 
-业务用途参考 [OpenCLI](https://github.com/jackwener/OpenCLI) 与其 [Bilibili adapter 文档](https://github.com/jackwener/OpenCLI/blob/main/docs/adapters/browser/bilibili.md)；本仓库未复制其实现或原文。代码与文档以 [MIT](LICENSE) 发布。
+业务用途参考 [OpenCLI](https://github.com/xxjrq/easy-webbridge) 与其 [Bilibili adapter 文档](https://github.com/xxjrq/easy-webbridge/blob/main/docs/adapters/browser/bilibili.md)；本仓库未复制其实现或原文。代码与文档以 [MIT](LICENSE) 发布。

@@ -24,4 +24,4 @@ Run `node scripts/self-test.mjs`. Fixtures simulate offline page material only; 
 
 ## License and reference
 
-Published under [MIT](LICENSE). Business-use references: [OpenCLI](https://github.com/jackwener/OpenCLI) and its [Bilibili adapter](https://github.com/jackwener/OpenCLI/blob/main/docs/adapters/browser/bilibili.md). No implementation or text has been copied.
+Published under [MIT](LICENSE). Business-use references: [OpenCLI](https://github.com/xxjrq/easy-webbridge) and its [Bilibili adapter](https://github.com/xxjrq/easy-webbridge/blob/main/docs/adapters/browser/bilibili.md). No implementation or text has been copied.
